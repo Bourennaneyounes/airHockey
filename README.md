@@ -15,6 +15,19 @@ Air Hockey is a classic tabletop game inspired by Pong, where two opposing playe
 - OpenGL
 - C++
 
+### Key Controls
+
+- Player 1:
+  - U: Move paddle up
+  - H: Move paddle left
+  - J: Move paddle down
+  - K: Move paddle right
+
+- Player 2:
+  - G: Move paddle up
+  - V: Move paddle left
+  - B: Move paddle down
+  - N: Move paddle right
 ## Installation
 
 To run Air Hockey on your desktop, follow these steps:
