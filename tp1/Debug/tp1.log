@@ -1,0 +1,15 @@
+﻿  Camera.cpp
+C:\Users\youne\OneDrive\Bureau\test github\airHockey\tp1\Camera.h(6,9): fatal error C1083: Cannot open include file: '../glm/glm.hpp': No such file or directory
+  Mesh.cpp
+C:\Users\youne\OneDrive\Bureau\test github\airHockey\tp1\VBO.h(4,9): fatal error C1083: Cannot open include file: '../glm/glm.hpp': No such file or directory
+  shaderClass.cpp
+C:\Users\youne\OneDrive\Bureau\test github\airHockey\tp1\shaderClass.cpp(11,27): warning C4244: 'argument': conversion from 'std::streamoff' to 'const unsigned int', possible loss of data
+  main.cpp
+C:\Users\youne\OneDrive\Bureau\test github\airHockey\tp1\VBO.h(4,9): fatal error C1083: Cannot open include file: '../glm/glm.hpp': No such file or directory
+  stb.cpp
+  Texture.cpp
+  VAO.cpp
+C:\Users\youne\OneDrive\Bureau\test github\airHockey\tp1\VBO.h(4,9): fatal error C1083: Cannot open include file: '../glm/glm.hpp': No such file or directory
+  VBO.cpp
+C:\Users\youne\OneDrive\Bureau\test github\airHockey\tp1\VBO.h(4,9): fatal error C1083: Cannot open include file: '../glm/glm.hpp': No such file or directory
+  Generating Code...
